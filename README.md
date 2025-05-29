@@ -1,5 +1,5 @@
 🧑‍💻 Author
-Sanjay (sanjayishan8525@gmail.com) – Java Developer | Student Management System Built with ❤️
+Sanjay (sanjayishan8525@gmail.com) – Java Software Developer @TCS-Chennai | Student Management System Built with ❤️
 
 - Done this project to revise my concept again -
 
